@@ -1,0 +1,8 @@
+.theia/
+build/
+.arduino/
+*.bin
+*.hex
+*.elf
+*.o
+*.tmp
